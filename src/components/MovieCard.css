@@ -1,11 +1,12 @@
-.movie-card {
-  width: 300px;
-}
-.movie-image {
-  height: 169px;
-}
+
 @media screen and (max-width: 600px) {
-  .movie-card {
+  /*.movie-card {
     width: initial !important; 
+  }*/
+  .movie-card {
+    width: 300px;
+  }
+  .movie-image {
+    height: 169px;
   }
 }
