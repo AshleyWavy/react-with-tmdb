@@ -4,8 +4,9 @@
 .movie-image {
   height: 169px;
 }
-@media screen and (max-width: 600px) {
-  .movie-card {
+@media screen and (min-width: 600px) {
+  /*.movie-card {
     width: initial !important; 
-  }
+  }*/
+  
 }
