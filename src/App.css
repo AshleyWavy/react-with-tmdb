@@ -13,4 +13,10 @@
   /*margin:auto;*/ /*mobile first, desktop second!*/
 }
 
-
+@media screen and (max-width: 600px) {
+  .MuiCard-root-78 {
+    overflow: initial !important;
+    margin-top: 64px;
+    margin:auto; /*mobile first, desktop second!*/
+  }
+}
